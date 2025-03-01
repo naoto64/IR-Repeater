@@ -35,14 +35,10 @@
 ジャックに赤外線センサのケーブルを差し込み、USBコネクタに電源を接続します。基板本体は赤外線発光部ですので、対象機器の受光部に向けてください。
 
 ## 回路図
-[![回路図](./img/schematic01.jpg)](./img/schematic01.jpg)
-[![回路図](./img/schematic02.jpg)](./img/schematic02.jpg)
-[![回路図](./img/schematic03.jpg)](./img/schematic03.jpg)
+[![回路図](./img/schematic01.jpg)](./img/schematic.jpg)
 
 ## 実装図
-[![実装図](./img/implementation-diagram01.jpg)](./img/implementation-diagram01.jpg)
-[![実装図](./img/implementation-diagram02.jpg)](./img/implementation-diagram02.jpg)
+[![実装図](./img/implementation-diagram01.jpg)](./img/implementation-diagram.jpg)
 
 ## 実装例
-[![実装例](./img/implementation-example01.jpg)](./img/implementation-example01.jpg)
-[![実装例](./img/implementation-example02.jpg)](./img/implementation-example02.jpg)
+[![実装例](./img/implementation-example01.jpg)](./img/implementation-example.jpg)
