@@ -5,6 +5,8 @@
 
 赤外線リモコンの信号を中継することで信号の届く距離を長くでき、家具の影に隠れた機器のリモコン操作ができるようになります。
 
+赤外線のハウリングキャンセル機能があるため、受光部と発光部が近すぎてハウリングを起こした場合は自動的に送信を停止します。
+
 電源はUSB Type-C端子です。ACアダプタ、ケーブルは付属しておりませんので別途ご用意ください。また、PowerDelivery等の給電には対応しておりませんのでご注意ください。
 
 ## 購入
@@ -32,13 +34,14 @@
 
 
 ## 使用方法
-ジャックに赤外線センサのケーブルを差し込み、USBコネクタに電源を接続します。基板本体は赤外線発光部ですので、対象機器の受光部に向けてください。
+ジャックに赤外線センサ（受光部）のケーブルを差し込み、USBコネクタに電源を接続します。基板本体は赤外線発光部ですので、対象機器の受光部に向けてください。
+受光部と発光部が近いと正常に赤外線の信号を中継することができませんので、なるべく受光部と発光部を離してご利用ください。
 
 ## 回路図
-[![回路図](./img/schematic01.jpg)](./img/schematic.jpg)
+[![回路図](./img/schematic.jpg)](./img/schematic.jpg)
 
 ## 実装図
-[![実装図](./img/implementation-diagram01.jpg)](./img/implementation-diagram.jpg)
+[![実装図](./img/implementation-diagram.jpg)](./img/implementation-diagram.jpg)
 
 ## 実装例
-[![実装例](./img/implementation-example01.jpg)](./img/implementation-example.jpg)
+[![実装例](./img/implementation-example.jpg)](./img/implementation-example.jpg)
