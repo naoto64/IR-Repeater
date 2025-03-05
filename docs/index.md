@@ -49,22 +49,23 @@
     <th>数量</th>
   </tr>
   <tr><td>基板</td><td>1</td></tr>
-  <tr><td>タイマーIC NE555L-D08-T</td><td>1</td></tr>
-  <tr><td>2入力NORゲート TC74HC02AP</td><td>1</td></tr>
-  <tr><td>NchパワーMOSFET 60V5A 2SK4017(Q)</td><td>1</td></tr>
-  <tr><td>5mm青色LED 470nm OSB5SA5B64A</td><td>1</td></tr>
-  <tr><td>5mm赤外線LED 940nm OSI5FU5111C-40</td><td>3</td></tr>
+  <tr><td>タイマーIC NE555</td><td>1</td></tr>
+  <tr><td>2入力NORゲート 74HC02</td><td>1</td></tr>
+  <tr><td>NchパワーMOSFET 2SK4017</td><td>1</td></tr>
+  <tr><td>5mm青色LED</td><td>1</td></tr>
+  <tr><td>5mm赤外線LED</td><td>3</td></tr>
   <tr><td>USB Type-Cコネクター 電源供給用</td><td>1</td></tr>
   <tr><td>3.5mm小型ステレオミニジャック 基板取付用</td><td>1</td></tr>
   <tr><td>ICソケット (8P)</td><td>1</td></tr>
   <tr><td>ICソケット (14P)</td><td>1</td></tr>
-  <tr><td>プラスチックナット+連結(6角ジョイント)スペーサー(10mm)セット</td><td>1</td></tr>
+  <tr><td>プラスチックナット</td><td>4</td></tr>
+  <tr><td>連結(6角ジョイント)スペーサー(10mm)</td><td>4</td></tr>
   <tr><td>マイクロインダクター 1mH</td><td>1</td></tr>
-  <tr><td>電解コンデンサー 10μF50V105℃ ルビコンPX</td><td>1</td></tr>
-  <tr><td>電解コンデンサー 1000μF10V105℃ ルビコンWXA</td><td>1</td></tr>
-  <tr><td>積層セラミックコンデンサー 10pF50V C0G 5mm</td><td>2</td></tr>
-  <tr><td>積層セラミックコンデンサー 0.01μF50V X7R 5mm</td><td>1</td></tr>
-  <tr><td>積層セラミックコンデンサ 0.1u 50V 5mm</td><td>2</td></tr>
+  <tr><td>電解コンデンサー 10μF</td><td>1</td></tr>
+  <tr><td>電解コンデンサー 1000μF</td><td>1</td></tr>
+  <tr><td>積層セラミックコンデンサー 10pF</td><td>2</td></tr>
+  <tr><td>積層セラミックコンデンサー 0.01μF</td><td>1</td></tr>
+  <tr><td>積層セラミックコンデンサ 0.1u</td><td>2</td></tr>
   <tr><td>カーボン抵抗(炭素皮膜抵抗) 1W39Ω</td><td>3</td></tr>
   <tr><td>カーボン抵抗(炭素皮膜抵抗) 1/2W100Ω</td><td>1</td></tr>
   <tr><td>カーボン抵抗(炭素皮膜抵抗) 1/4W1kΩ</td><td>1</td></tr>
@@ -74,8 +75,8 @@
   <tr><td>カーボン抵抗(炭素皮膜抵抗) 1/4W470kΩ</td><td>1</td></tr>
   <tr><td>カーボン抵抗(炭素皮膜抵抗) 1/4W10MΩ</td><td>1</td></tr>
   <tr><td>クリスタル(水晶発振子) 38kHz</td><td>1</td></tr>
-  <tr><td>リセッタブルヒューズ 0.5A トリップ電流:1A 耐圧:60V MF-R050</td><td>1</td></tr>
-  <tr><td>赤外線リモコン受信モジュール OSRB38C9BX-W150CM</td><td>1</td></tr>
+  <tr><td>リセッタブルヒューズ 0.5A</td><td>1</td></tr>
+  <tr><td>赤外線リモコン受信モジュール</td><td>1</td></tr>
 </table>
 
 ## 回路図
